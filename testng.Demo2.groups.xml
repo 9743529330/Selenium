@@ -1,0 +1,22 @@
+<suite name="project name">
+    <groups>
+        <run>
+           <exclude name="test pass"/>
+
+        </run>
+    </groups>
+    <test name="module1">
+
+        <classes>
+            <class name="TestNGDemo.Demo.Demo2.ClassThree"/>
+            <class name="TestNGDemo.Demo.Demo2.ClassTwo"/>
+        </classes>
+    </test>
+    <test name="module2">
+        <classes>
+            <class name="TestNGDemo.Demo.Demo2.ClassOne"/>
+
+        </classes>
+    </test>
+</suite>
+

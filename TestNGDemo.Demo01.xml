@@ -1,0 +1,16 @@
+<suite name="this is my practice project">
+    <listeners>
+        <listener class-name="ListenersClasses.MyListeners"/>
+    </listeners>
+    <test name="testing purpose 1">
+<classes>
+    <class name="TestNGDemo.ListenerDemo.ClassOne"/>
+    <class name="TestNGDemo.ListenerDemo.ClassTwo"/>
+</classes>
+    </test>
+    <test name="testing purpose 2">
+        <classes>
+            <class name="TestNGDemo.ListenerDemo.ClassThree"/>
+        </classes>
+    </test>
+</suite>

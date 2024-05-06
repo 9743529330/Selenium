@@ -1,0 +1,15 @@
+<suite name="This is my project">
+<test name ="Test pass One">
+<classes>
+    <class name="TestNGOwnTesting.Demo1.EarningSites"/>
+      <class name="TestNGOwnTesting.Demo1.LearningSite"/>
+</classes>
+</test>
+<test name="Test pass Two">
+<classes>
+    <class name="TestNGOwnTesting.Demo1.ManoranjanSite"/>
+    <class name="TestNGOwnTesting.Demo1.LearningSite"/>
+</classes>
+
+</test>
+</suite>

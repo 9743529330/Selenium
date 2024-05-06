@@ -1,0 +1,43 @@
+package TestNGDemo2.Demo;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.edge.EdgeDriver;
+import org.testng.annotations.AfterClass;
+import org.testng.annotations.BeforeClass;
+import org.testng.annotations.Test;
+
+public class Jobsites {
+    WebDriver driver;
+    @BeforeClass
+    public void openBrowser()
+    {
+        driver=new EdgeDriver();
+        driver.manage().window().maximize();
+    }
+    @AfterClass
+    public void closeBrowser() throws InterruptedException {
+        Thread.sleep(4000);
+        driver.close();
+    }
+    @Test(priority = 4)
+    public void NaukriLogin()
+    {
+        driver.get("http://naukri.com");
+    }
+    @Test(priority = 3)
+    public void LinkdlinLogin()
+    {
+        driver.get("http://linkdlin.com");
+    }
+    @Test(priority = 2)
+    public void SarkariNaukrilogin()
+    {
+        driver.get("http://sarkarinaukri.com");
+    }
+    @Test(priority = 1)
+    public void ShineLogin()
+    {
+        driver.get("http://shine.com");
+    }
+}

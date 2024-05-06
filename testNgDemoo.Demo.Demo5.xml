@@ -1,0 +1,18 @@
+<suite name="project name">
+    <Parameter name="myUrl" value="http://gmail.com"/>
+    <Parameter name="myUsername" value="admin11"/>
+    <Parameter name="myPassword" value="pass11"/>
+
+    <test name="module 1">
+        <classes>
+            <class name="TestNgDemoo.Demo.ClassOne"/>
+            <class name="TestNgDemoo.Demo.ClassTwo"/>
+        </classes>
+    </test>
+    <test name="module 2">
+        <classes>
+            <class name="TestNgDemoo.Demo.ClassThree"/>
+        </classes>
+    </test>
+</suite>
+

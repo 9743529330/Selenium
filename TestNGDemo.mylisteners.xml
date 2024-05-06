@@ -1,0 +1,14 @@
+<suite name="this is my practice project">
+    <test name="testing purpose 1">
+<classes>
+    <class name="TestNGDemo.ListenerDemo.ClassOne"/>
+    <class name="TestNGDemo.ListenerDemo.ClassTwo"/>
+</classes>
+    </test>
+
+    <test name="testing purpose 2">
+        <classes>
+            <class name="TestNGDemo2.Demo.Socialsites"/>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,18 @@
+<suite name="project name">
+    <groups>
+        <run>
+            <include name="emails"/>
+        </run>
+    </groups>
+    <test name="module1">
+        <classes>
+            <class name="TestNGDemo.Demo.ClassOne"/>
+            <class name="TestNGDemo.Demo.ClassTwo"/>
+        </classes>
+    </test>
+    <test name="module2">
+        <classes>
+            <class name="TestNGDemo.Demo.ClassThree"/>
+        </classes>
+    </test>
+</suite>
