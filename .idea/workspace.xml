@@ -4,325 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5d280615-4ea2-4b4c-b1f6-2d18e51a77b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib3.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG.Demo.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG.MyExtentListeners.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNG.real.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNGDemo.Demo01.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNGDemo.mylisteners.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestNGDemo.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/SparseBitSet-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/animal-sniffer-annotations-1.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/aopalliance-1.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/auto-service-annotations-1.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/batik-anim-1.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/batik-awt-util-1.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/batik-bridge-1.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/batik-codec-1.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/batik-constants-1.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/batik-css-1.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/batik-dom-1.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/batik-ext-1.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/batik-gvt-1.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/batik-i18n-1.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/batik-parser-1.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/batik-script-1.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/batik-shared-resources-1.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/batik-svg-dom-1.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/batik-svggen-1.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/batik-svgrasterizer-1.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/batik-transcoder-1.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/batik-util-1.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/batik-xml-1.14.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/bcpkix-jdk15on-1.70.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/bcprov-jdk15on-1.70.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/bcutil-jdk15on-1.70.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/byte-buddy-1.14.11.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/checker-compat-qual-2.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/checker-qual-3.41.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-codec-1.15.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-collections-3.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-collections4-4.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-compress-1.21.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-exec-1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-io-2.11.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-io-2.7.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-lang-2.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-logging-1.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-math3-3.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/curvesapi-1.07.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/error_prone_annotations-2.1.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/error_prone_annotations-2.23.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/extentreports-5.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/failsafe-3.3.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/failureaccess-1.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/fontbox-2.0.26.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/freemarker-2.3.32.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/graphics2d-0.40.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/gson-2.10.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/guava-25.1-android.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/guava-33.0.0-jre.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/guice-4.2.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/j2objc-annotations-1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/j2objc-annotations-2.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jackson-annotations-2.10.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jackson-core-2.10.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jackson-databind-2.12.7.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jakarta.activation-2.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jakarta.xml.bind-api-3.0.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/javax.inject-1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jcommander-1.82.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jquery-3.6.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jquery-3.7.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/jsr305-3.0.2.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/log4j-api-2.18.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/lombok-1.18.26.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-j-8.2.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/opentelemetry-api-1.34.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/opentelemetry-api-events-1.34.1-alpha.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/opentelemetry-context-1.34.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/opentelemetry-exporter-logging-1.34.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/opentelemetry-extension-incubator-1.34.1-alpha.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/opentelemetry-sdk-1.34.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/opentelemetry-sdk-common-1.34.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/opentelemetry-sdk-extension-autoconfigure-1.34.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/opentelemetry-sdk-extension-autoconfigure-spi-1.34.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/opentelemetry-sdk-logs-1.34.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/opentelemetry-sdk-metrics-1.34.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/opentelemetry-sdk-trace-1.34.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/opentelemetry-semconv-1.23.1-alpha.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/oro-2.0.8.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/pdfbox-2.0.26.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/poi-5.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/poi-examples-5.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/poi-excelant-5.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/poi-javadoc-5.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/poi-ooxml-5.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/poi-ooxml-full-5.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/poi-ooxml-lite-5.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/poi-scratchpad-5.2.3.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/reactive-streams-1.0.4.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/reportng-2.7.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/rxjava-3.1.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-api-4.17.0-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-api-4.17.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-chrome-driver-4.17.0-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-chrome-driver-4.17.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-chromium-driver-4.17.0-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-chromium-driver-4.17.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-devtools-v119-4.17.0-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-devtools-v119-4.17.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-devtools-v120-4.17.0-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-devtools-v120-4.17.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-devtools-v121-4.17.0-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-devtools-v121-4.17.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-devtools-v85-4.17.0-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-devtools-v85-4.17.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-edge-driver-4.17.0-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-edge-driver-4.17.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-firefox-driver-4.17.0-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-firefox-driver-4.17.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-http-4.17.0-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-http-4.17.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-ie-driver-4.17.0-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-ie-driver-4.17.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-java-4.17.0-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-java-4.17.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-json-4.17.0-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-json-4.17.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-manager-4.17.0-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-manager-4.17.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-os-4.17.0-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-os-4.17.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-remote-driver-4.17.0-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-remote-driver-4.17.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-safari-driver-4.17.0-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-safari-driver-4.17.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-support-4.17.0-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/selenium-support-4.17.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/slf4j-api-1.7.29.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/slf4j-api-1.7.36.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/testng-7.6.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/testng-7.9.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/velocity-1.5.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/xml-apis-1.4.01.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/xml-apis-ext-1.3.04.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/xmlbeans-5.1.1.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/xmlgraphics-commons-2.6.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/xmlsec-3.0.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/qodana.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ActionDemos/MyntraMouceHover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AddCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AddCustomer12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Addition2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlertAction/AlertDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AlertAction/AlertTryIt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ArraylistClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssertDemo/AddAssertDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssertDemo/AddCustomerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssertDemo/LoginDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssertDemo/LoginDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssertDemo/LoginDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssertDemo/LoginDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssertDemo1/LoginDashboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssertDemo1/LoginDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssertDemo1/LoginWrong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssertPractice/AddCustomer1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssertPractice/AddCustomer2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssertPractice/AddCustomerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssertPractice/LoginDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssertPractice/LoginDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssertPractice/LoginDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssertPractice/LoginDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AssertPractice/LoginDemo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicDemo/ArrayDeque.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicDemo/HashMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicDemo/HashMap1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicDemo/HashMapdifferent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicDemo/HashSetdemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicDemo/PriorityQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicDemo/PriorityQueueString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicDemo/StackIntegerDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicDemo/StackString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicDemo/TreeSet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/BasicDemo/linkedHashSetdemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CheckBox2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Checkbox.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CssSelectorDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDriven/LoginWithAddCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDriven/LoginWithDataDriven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDriven/LoginWithDataDriven2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDriven/LoginWithDataDriven3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDriven/LoginWithDataDriven4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataDriven/LoginWithDataDrivenXLs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataProvider/LoginWithDataprovider.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DataTable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Datepicker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/DemoLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/EdgeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExtentReportDemo/ListnersDemo/MyListners.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExtentReportDemo/ListnersDemo/utility/Init.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExtentReportDemo/LoginExtentsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExtentReportDemo/LoginExtentsDemoManyTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExtentReports/TestNGDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ExtentReports/TestNGDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Facebooklogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FindElements3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HeroKuappLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/HomeWorkXpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JunitDemo/JunitDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JunitDemo/JunitDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JunitDemo/JunitDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JunitDemo/JunitDemo4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JunitDemo/JunitDemo5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/JunitDemo/JunitDemo6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LifePartner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListenersClasses/MyExtentListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListenersClasses/MyListeners.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ListenersClasses/lib/ForExtentReport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoginDemoFindElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoginDemoFindElements3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoginDemoXpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LoginDemoooo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MultiSelect.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewDemoProgram.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewLinkLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/NewReadMore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/OpenCartDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ScreenShot/ScreemShotDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ScreenShot/ScreenShotDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ScreenshotsDemo/TestNGDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ScreenshotsDemo/TestNGDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SeleniumDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SeleniumDemo01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SeleniumDemo02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SeleniumDemo03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SeleniumDemo04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SeleniumDemo05.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SeleniumDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SeleniumDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SeleniumDemo3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SeleniumTabsDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SeleniumXpathTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGAddCustomer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/Demo/ClassOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/Demo/ClassThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/Demo/ClassTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/Demo/Demo2/ClassOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/Demo/Demo2/ClassThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/Demo/Demo2/ClassTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/Demo/Demo3/Demo2/ClassOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/Demo/Demo3/Demo2/ClassThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/Demo/Demo3/Demo2/ClassTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/Demo/DemoReal/Jobsites.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/Demo/DemoReal/SocialSites.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/Demo/DemoReal/StudySites.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/Demo1/ClassOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/Demo1/ClassThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/Demo1/ClassTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/DemoListners/ClassOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/DemoListners/ClassThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/DemoListners/ClassTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/ListenerDemo/ClassOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/ListenerDemo/ClassThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/ListenerDemo/ClassTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/ParametersDemo/ClassOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/ParametersDemo/ClassThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/ParametersDemo/ClassTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/ParametersDemo/Demo6/ClassOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/ParametersDemo/Demo6/ClassThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/ParametersDemo/Demo6/ClassTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/ParametersDemo/ParametersDemo2/ClassOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/ParametersDemo/ParametersDemo2/ClassThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/ParametersDemo/ParametersDemo2/ClassTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/Real/Base.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/Real/Jobsites.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/Real/Socialsites.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/Real/Tutorialsites.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/TestNGDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo/TestNGDemo2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo2/Demo/Jobsites.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo2/Demo/Socialsites.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGDemo2/Demo/Tutorialsites.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGOwnTesting/Demo1/EarningSites.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGOwnTesting/Demo1/LearningSite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNGOwnTesting/Demo1/ManoranjanSite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNgDemoo/Demo/ClassOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNgDemoo/Demo/ClassThree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TestNgDemoo/Demo/ClassTwo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/VectorClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/XpathHomeWorkDifferent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/YoutubeLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/YoutubrChecking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testNgDemoo.Demo.Demo5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.Demo2.IncludeExclude.parameters.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.Demo2.IncludeExclude.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.Demo2.groups.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.Demo2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.DemoListeners.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.ParametersDemo.Demo6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.ParametersDemo.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.ParametersDemo2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testngDemo1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testngDemoReal.Report.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testngDemoReal.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testngIncludeExclude.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testnggroups.xml" afterDir="false" />
+    <list default="true" id="5d280615-4ea2-4b4c-b1f6-2d18e51a77b3" name="Changes" comment="selenium all practice code">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -548,6 +231,12 @@
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "configurable.group.language"
+  },
+  "keyToStringList": {
+    "ChangesTree.GroupingKeys": [
+      "directory",
+      "module"
+    ]
   }
 }]]></component>
   <component name="RecentsManager">
@@ -663,6 +352,23 @@
       <option name="presentableId" value="Default" />
       <updated>1706142662505</updated>
     </task>
+    <task id="LOCAL-00001" summary="selenium all practice code">
+      <option name="closed" value="true" />
+      <created>1715018721563</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1715018721563</updated>
+    </task>
+    <task id="LOCAL-00002" summary="selenium all practice code">
+      <option name="closed" value="true" />
+      <created>1715018780271</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715018780271</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -675,6 +381,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="selenium all practice code" />
+    <option name="LAST_COMMIT_MESSAGE" value="selenium all practice code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
